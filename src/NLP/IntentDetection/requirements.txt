@@ -2,7 +2,7 @@ Cython==0.26.1
 numpy==1.14.1
 nltk==3.2.4
 keras==2.1.2
-tensorflow==1.4.0
+tensorflow==2.6.4
 gensim==2.3.0
 pandas==0.21.1
 sklearn
